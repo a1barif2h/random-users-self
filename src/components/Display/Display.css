@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+.user-container {
+  width: 70%;
+  border-right: 1px solid orangered;
+  padding: 5px;
+  margin: 10px;
+}
